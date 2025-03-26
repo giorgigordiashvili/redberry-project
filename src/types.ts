@@ -13,3 +13,8 @@ export type EmployeeType = {
   avatar: string
   department_id: number
 }
+
+export type StatusType = {
+  id: number
+  name: string
+}
