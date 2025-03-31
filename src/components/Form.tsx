@@ -65,7 +65,7 @@ function Form({ departments }: Props) {
           name="name"
         />
       </label>
-
+      <input type="date" />
       <label>
         Surname:
         <input
